@@ -1,0 +1,14 @@
+{
+    "users": {
+        "god@gmail.com": "$2y$12$j0PNFlDPEptIJH9IbW8BTuHu22zKAVBNTYRsFs5Dvtke7n2K7qVPa"
+    },
+    "students": [
+        {
+            "id": 1779035038,
+            "name": "YOGESH P",
+            "dob": "2004-08-15",
+            "gender": "Male",
+            "age": "21"
+        }
+    ]
+}
